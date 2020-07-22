@@ -1,6 +1,6 @@
 {
   "name": "nice-ltsn",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "CommandLine Tool for Node LTS",
   "main": "index.js",
   "scripts": {
