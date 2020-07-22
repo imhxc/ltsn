@@ -2,6 +2,8 @@
 
 nice-ltsn is a tool to view historical versions of Node LTS.
 
+![eg.](https://github.com/imhxc/ltsn/blob/master/example/WX20200722-104631.png?raw=true)
+
 ## Install
 
 ````
