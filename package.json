@@ -13,7 +13,11 @@
     "type": "git",
     "url": "git+https://github.com/imhxc/nlts.git"
   },
-  "keywords": [],
+  "keywords": [
+    "Node",
+    "Node LTS",
+    "LTS"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
